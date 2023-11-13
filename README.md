@@ -11,4 +11,4 @@ Here are some informations about myself:
 - 📝 Blog:  [Fenglielie's blog](https://fenglielie.top)
 - 🐣 Github: [Fenglielie](https://github.com/fenglielie)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenglielie&theme=flat&layout=compact)](https://github.com/anuraghazr/github-readme-stats)
+ 
