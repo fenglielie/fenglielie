@@ -2,7 +2,7 @@
 
 <strong>I am Fenglielie. </strong> 
 
-Here are some pieces of information about myself:
+Some information about myself:
 
 <ul>
   <li style="list-style: none; padding-left: 0;">
@@ -25,6 +25,5 @@ Here are some pieces of information about myself:
   </li>
   <li style="list-style: none; padding-left: 0;">
     🐣 Github:  <a href="https://github.com/fenglielie">Fenglielie</a>
-  </li>
-  <!-- 继续添加更多列表项 -->
+  </li> 
 </ul>
