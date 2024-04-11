@@ -2,7 +2,7 @@
 
 <strong>I am Fenglielie. </strong> 
 
-Some information about myself:
+About myself:
 
 <ul>
   <li style="list-style: none; padding-left: 0;">
@@ -15,7 +15,7 @@ Some information about myself:
     💻 Developing skills:  C/C++, Python, Julia, Lua, Fortran/Matlab/Mathematica, ...
   </li>
   <li style="list-style: none; padding-left: 0;">
-    🧩 Personal interests:  Minecraft; Reading; Learn something new
+    🧩 Interests:  Minecraft; Reading; Learn something new
   </li>
   <li style="list-style: none; padding-left: 0;">
     📧 Email:  fenglielie@qq.com
