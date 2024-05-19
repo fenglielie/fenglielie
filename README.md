@@ -1,6 +1,4 @@
-### Hi 👋 
-
-<strong>I am Fenglielie. </strong> 
+### Hi 👋 This is Fenglielie
 
 About myself:
 
