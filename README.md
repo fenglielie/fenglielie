@@ -26,4 +26,4 @@ About myself:
   </li> 
 </ul>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=fenglielie.visitor-badge" alt="visitor badge"/>
+![](https://komarev.com/ghpvc/?username=fenglielie)
