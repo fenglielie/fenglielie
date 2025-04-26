@@ -10,7 +10,7 @@ About me:
     💻 Developing skills:  C/C++, Python, MATLAB, Julia, ...
   </li>
   <li style="list-style: none; padding-left: 0;">
-    🧩 Interests:  Minecraft; Reading; Learn something new
+    🧩 Interests:  Minecraft and programming
   </li>
   <li style="list-style: none; padding-left: 0;">
     📧 Email:  fenglielie@qq.com
