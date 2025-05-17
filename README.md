@@ -23,6 +23,6 @@ About me:
   </li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenglielie&layout=compact&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenglielie&layout=compact&hide=javascript,html,css,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=fenglielie)
