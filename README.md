@@ -2,7 +2,4 @@
 
 I am a Ph.D. student in computational mathematics.
 
-- Keywords: Mathematics, Scientific Computing, Programming
-- Email: <a href="mailto:fenglielie@qq.com">fenglielie@qq.com</a>
-- Blog: <a href="https://fenglielie.top">Fenglielie's blog</a>
-- Github: <a href="https://github.com/fenglielie">Fenglielie</a>
+[![Top Langs](https://github-readme-stats-peach-two.vercel.app/api/top-langs/?username=fenglielie&langs_count=10&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
