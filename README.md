@@ -4,8 +4,4 @@
 
 <p align="center">  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenglielie&theme=transparent&hide_border=true&layout=compact&langs_count=10&hide=html" />
-  <br/><br/>
-  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,py,matlab,fortran,julia,latex">
-  <br/><br/>  
-  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=neovim,tmux,cmake,vscode,jupyter,qt,pytorch"> 
 </p>
